@@ -4,7 +4,7 @@
 ![Cinema-HD-for-Windows-PC](https://user-images.githubusercontent.com/96648890/190856735-14ba2155-ce2a-4efa-8629-28988d83aea5.jpg)
 
 <!-- ABOUT THE PROJECT -->
-## **📢Project Description:**
+## **📢Project Description**
 
 A simple application that simulates a cinema's ticket-reservation system. It contents only with backend part.
 Manage cinema by adding new movies, movie sessions, adding cinema halls. With registering new user the shopping cart linked to user will be created. After login as user add movie sessions to shopping cart and create orders to purchase tickets.
